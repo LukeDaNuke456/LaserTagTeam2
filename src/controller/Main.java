@@ -24,6 +24,7 @@ public class Main {
             e.printStackTrace();
             System.exit(1);
             System.out.println("Kyrsti");
+            System.out.println("Andrew");
         }
 
     }
