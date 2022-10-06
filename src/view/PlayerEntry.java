@@ -7,12 +7,9 @@ import java.awt.*;
 
 public class PlayerEntry extends JFrame {
 
-    Input input;
 
      public PlayerEntry(){
 
-//         i.setEntry(this);
-        
          this.setTitle("Laser Tag Team 2");
          this.setSize(700, 500);
          this.setFocusable(true);
