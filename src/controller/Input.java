@@ -7,7 +7,6 @@ import java.awt.event.*;
 
 public class Input implements ActionListener, MouseListener, KeyListener {
     PlayerEntry entry;
-
     public Input(){
 
     }

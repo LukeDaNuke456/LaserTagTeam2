@@ -21,6 +21,7 @@ public class SplashScreen extends JWindow {
             e.printStackTrace(System.err);
             System.exit(1);
         }
+
         //sets the size of window to whatever the width and height of image is
         this.setSize(splashImage.getWidth(this), splashImage.getHeight(this));
 
